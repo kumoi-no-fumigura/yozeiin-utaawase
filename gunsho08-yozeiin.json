@@ -1,10 +1,15 @@
 {
- "work": "陽成院歌合",
+ "work": "陽成院歌合（群書類従本）",
  "work_id": "gunsho08-yozeiin",
  "repo": "kumoi-no-fumigura/yozeiin-utaawase",
  "yomi": "ようぜいいんのうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（惜秋の一題）",
+  "era": "延喜13年（913）9月9日",
+  "author": "主催 陽成院",
+  "desc": "陽成院のもとで、九月九日に「惜秋」の一題で行われた歌合。過ぎゆく秋を惜しむ歌を左右に番え、勝負の付記はあるが判詞は伝わらない。"
+ },
  "editions": [
   {
    "pid": "1879502",
